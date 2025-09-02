@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "suma.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "isoceles.h": "c",
+        "triangulo.h": "c"
+    }
+}
